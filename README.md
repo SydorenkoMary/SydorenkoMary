@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on my own project
 - 📫 How to reach me don't try
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: don't like when someone make fun of me
 
 <!---
 SydorenkoMary/SydorenkoMary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
