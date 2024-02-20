@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SydorenkoMary
 - 👀 I’m interested in long distance swimming
-- 🌱 I’m currently learning programming
+- 🌱 I’m currently learning programming on python
 - 💞️ I’m looking to collaborate on my own project
 - 📫 How to reach me don't try
 - 😄 Pronouns: ...
