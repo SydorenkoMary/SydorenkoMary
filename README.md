@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning programming on python
 - 💞️ I’m looking to collaborate on my own project
 - 📫 How to reach me don't try
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: don't like when someone make fun of me
 
 <!---
