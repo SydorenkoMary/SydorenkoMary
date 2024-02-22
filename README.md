@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @SydorenkoMary
-- 👀 I’m interested in long distance swimming
-- 🌱 I’m currently learning programming on python
-- 💞️ I’m looking to collaborate on my own project
-- 📫 How to reach me don't try
+# Project Title
 
-- ⚡ Fun fact: don't like when someone make fun of me
+A brief description of your project goes here. Mention what it does and why it's useful.
 
-<!---
-SydorenkoMary/SydorenkoMary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+Provide step-by-step instructions on how to install and set up your project. Include any dependencies that need to be installed and how to install them.
+
+```bash
+npm install
